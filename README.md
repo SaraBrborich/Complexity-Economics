@@ -1,2 +1,2 @@
 # Complexity-Economics
-In this repository, I include several projects for the Complexity Economics class as Jupyter Notebooks
+In this repository, I include several projects for the Complexity Economics class.
